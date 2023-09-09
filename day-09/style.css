@@ -1,0 +1,39 @@
+/* 
+- Set the font color to a named color of your choice.
+- Apply a background color using a hexadecimal value.
+- Add padding and margin to create spacing.
+*/
+h1 {
+  background-color: #333;
+  color: #fff;
+  padding: 40px 20px;
+  margin: 20px;
+}
+/* 
+- Set the font color to an RGB color value.
+- Apply a background color using a named color.
+- Add padding and margin to create spacing.
+*/
+p {
+  background-color: aqua;
+  color: #333;
+  font-size: 18px;
+  line-height: 1.5;
+  padding: 10px;
+  margin: 20px;
+}
+/* 
+- Set the width and height to 200px.
+- Apply a border of your choice with a solid style.
+- Use a different background color from the header and paragraph.
+- Adjust the box's position on the page using margin. 
+*/
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #f5f;
+  border: 1px solid #333;
+  border-radius: 4px;
+  margin: 20px auto;
+  padding: 15px;
+}
