@@ -1,0 +1,66 @@
+/* Apply a subtle shadow effect to the header element */
+header {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(60deg, #012515, #41926e);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style the h1 element within the header */
+header h1 {
+  font-size: 32px;
+}
+
+.form-group {
+  margin: 20px auto;
+  width: 500px;
+  background: linear-gradient(75deg, #41926e, #f1c4c4);
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin: 5px 0 10px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  border-color: #41926e;
+}
+
+.btn {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  border-radius: 4px;
+  background-color: #063f25;
+  border: #063f25 1px solid;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #41926e;
+  border: #41926e 1px solid;
+  cursor: pointer;
+  color: #012515;
+}
