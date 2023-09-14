@@ -1,0 +1,14 @@
+.container {
+  background-color: #022207;
+  margin: 20px;
+  padding: 20px;
+}
+.inner {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.outer {
+  background-color: #bfffe4;
+  margin: 30px;
+}
