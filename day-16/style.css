@@ -19,40 +19,9 @@ header h1 {
   font-size: 32px;
 }
 
-.list-group {
-  background-color: rgb(242, 243, 189);
-  padding: 10px;
-}
-
-li {
-  list-style: square;
-  list-style-position: inside;
-}
-
-table,
-th,
-td {
-  border: 1px solid #ccc;
-  border-collapse: collapse;
-}
-
-table {
-  width: 100%;
-  margin: 0 auto;
-}
-
-th {
-  background: var(--primary-bg);
-  color: #fff;
-  padding: 10px;
-}
-
-td {
-  padding: 10px;
-}
-
 footer {
   text-align: center;
+  color: #fff;
   padding: 20px;
   margin-top: 20px;
   background: var(--footer-gradient);
