@@ -31,6 +31,8 @@ I will update this section daily with details about the challenges I've complete
 - **Description**: Create a portfolio webpage using HTML that demonstrates your understanding of semantic elements, <!DOCTYPE>, viewport meta tag, embedding a PDF, and the dir attribute.
 - **Solution**: Link to the code solution (if available).
 
+### Day 16
+
 ## Acknowledgments
 
 I would like to thank CodeMarch for organizing the "30 Days of CodeCamp" challenge. This is a great opportunity for me to enhance my coding skills.
