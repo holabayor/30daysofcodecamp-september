@@ -1,0 +1,28 @@
+:root {
+  --primary-bg: #011b0f;
+  --footer-gradient: linear-gradient(to right, #4e065c, #ce5edd, #4e065c);
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  background: var(--primary-bg);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 32px;
+}
+
+footer {
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  background: var(--footer-gradient);
+}
